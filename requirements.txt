@@ -1,0 +1,11 @@
+langchain
+boto3
+botocore
+langgraph
+faiss-CPU
+chromadb
+faiss-cpu
+requests
+ragas
+llama-index
+langchain-aws
